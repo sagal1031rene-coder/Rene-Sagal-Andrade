@@ -50,6 +50,6 @@ My current work focuses on constructing open-science numerical validation framew
 ## 📈 Connect with my Research
 
 * **ORCID Profile:** [0009-0003-5574-5384](https://orcid.org)
-* **Academic Enquiries:** `your.email@academic.unam.mx`
+* **Academic Enquiries:** `sagal233rene@outlook.com`
 
 *“Data, code rigor, and deterministic validation drive the search for celestial origins.”*
